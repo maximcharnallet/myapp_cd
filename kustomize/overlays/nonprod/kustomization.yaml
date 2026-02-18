@@ -5,6 +5,6 @@ bases:
 - ../../base
 
 images:
-- name: patrah2/myjsapp
-  newName: patrah2/myjsapp
+- name: mouagaga/myjsapp
+  newName: mouagaga/myjsapp
   newTag: v1.0.0
