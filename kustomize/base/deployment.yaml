@@ -16,7 +16,7 @@ spec:
     spec: 
      containers:
       - name: helloworld
-        image: mouagaga/myjsapp:main
+        image: mouagaga/myjsapp:v1.0.1
         ports:
         - containerPort: 8081
 
