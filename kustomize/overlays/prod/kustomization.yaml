@@ -8,6 +8,6 @@ patchesStrategicMerge:
 - replica-and-rollout-strategy.yaml
 
 images:
-- name: patrah2/myjsapp
-  newName: patrah2/myjsapp
-  newTag: v1.0.1
+- name: mouagaga/myjsapp
+  newName: mouagaga/myjsapp
+  newTag: v1.0.2
